@@ -1,0 +1,15 @@
+C:\puntoNet\ApiRest\ApiRest.Entities\bin\Debug\net6.0\ApiRest.Entities.deps.json
+C:\puntoNet\ApiRest\ApiRest.Entities\bin\Debug\net6.0\ApiRest.Entities.dll
+C:\puntoNet\ApiRest\ApiRest.Entities\bin\Debug\net6.0\ApiRest.Entities.pdb
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ApiRest.Entities.csproj.AssemblyReference.cache
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ApiRest.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ApiRest.Entities.AssemblyInfoInputs.cache
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ApiRest.Entities.AssemblyInfo.cs
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ApiRest.Entities.csproj.CoreCompileInputs.cache
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ApiRest.Entities.dll
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\refint\ApiRest.Entities.dll
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ApiRest.Entities.pdb
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ref\ApiRest.Entities.dll
+C:\puntoNet\ApiRest\ApiRest.Entities\bin\Debug\net6.0\ApiRest.Abstractions.dll
+C:\puntoNet\ApiRest\ApiRest.Entities\bin\Debug\net6.0\ApiRest.Abstractions.pdb
+C:\puntoNet\ApiRest\ApiRest.Entities\obj\Debug\net6.0\ApiRest.Entities.csproj.CopyComplete

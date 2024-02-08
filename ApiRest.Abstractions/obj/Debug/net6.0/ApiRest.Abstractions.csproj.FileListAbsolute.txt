@@ -1,0 +1,12 @@
+C:\puntoNet\ApiRest\ApiRest.Abstractions\bin\Debug\net6.0\ApiRest.Abstractions.deps.json
+C:\puntoNet\ApiRest\ApiRest.Abstractions\bin\Debug\net6.0\ApiRest.Abstractions.dll
+C:\puntoNet\ApiRest\ApiRest.Abstractions\bin\Debug\net6.0\ApiRest.Abstractions.pdb
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\ApiRest.Abstractions.csproj.AssemblyReference.cache
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\ApiRest.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\ApiRest.Abstractions.AssemblyInfoInputs.cache
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\ApiRest.Abstractions.AssemblyInfo.cs
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\ApiRest.Abstractions.csproj.CoreCompileInputs.cache
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\ApiRest.Abstractions.dll
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\refint\ApiRest.Abstractions.dll
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\ApiRest.Abstractions.pdb
+C:\puntoNet\ApiRest\ApiRest.Abstractions\obj\Debug\net6.0\ref\ApiRest.Abstractions.dll

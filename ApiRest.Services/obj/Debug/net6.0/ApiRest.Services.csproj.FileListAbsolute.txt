@@ -1,0 +1,12 @@
+C:\puntoNet\ApiRest\ApiRest.Services\bin\Debug\net6.0\ApiRest.Services.deps.json
+C:\puntoNet\ApiRest\ApiRest.Services\bin\Debug\net6.0\ApiRest.Services.dll
+C:\puntoNet\ApiRest\ApiRest.Services\bin\Debug\net6.0\ApiRest.Services.pdb
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\ApiRest.Services.csproj.AssemblyReference.cache
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\ApiRest.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\ApiRest.Services.AssemblyInfoInputs.cache
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\ApiRest.Services.AssemblyInfo.cs
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\ApiRest.Services.csproj.CoreCompileInputs.cache
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\ApiRest.Services.dll
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\refint\ApiRest.Services.dll
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\ApiRest.Services.pdb
+C:\puntoNet\ApiRest\ApiRest.Services\obj\Debug\net6.0\ref\ApiRest.Services.dll
